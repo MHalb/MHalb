@@ -1,21 +1,21 @@
-<div align="center">
+# 🌟 MHalb, também conhecido como NinjaHKZ
 
-  #### ⭐ Um overview pelo meu GitHub ⭐
+
+<div align="center">
+  <p>Opa, eai! Eu me chamo <strong>marcos henrique albach</strong>, um programador hobbista em Python e que gosta de <strong>Ciências da Computação</strong></p>
+</div>
+
+<p>Minha aventura começa em 2016, me aventurei em diversas áreas como programação web, API's, raspagem de dados, automatização de processos, manipulação de memórias, debugging e afins. 
+O que mais me chamou a atenção foi a <strong>raspagem web</strong>. Hoje em dia, estou me aventurando no mundo dos <strong>freelancers</strong> fornecendo alguns serviços como raspagem de dados.</p>
+
+<p>Como programador gosto de criar soluções rápidas, seguras e eficientes, sempre tive um péssimo computador então estudei em um "campo de guerra", sempre tentando otimizar ao máximo 
+as aplicações para que rodassem bem em meu dispositivo, rodeado de sitemas e softwares nada seguros, desenolvolvi a mentalidade de criar códigos seguros também.</p>
+
+  
+<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHalb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHalb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)    
-
-</div>
-
-
-<div align="center">
-  <p>Opa, eai! Eu me chamo <strong>marcos henrique albach</strong>, um programador hobbista em Python e que gosta de <strong>Ciências da Computação</strong>, também conhecido como MHalb ou NinjaHKZ</p>
-  <p>Minha aventura começa em 2016, me aventurei em diversas áreas como programação web, API's, raspagem de dados, automatização de processos, manipulação de memórias, debugging e afins. 
-  O que mais me chamou a atenção foi a <strong>raspagem web</strong>. Hoje em dia, estou me aventurando no mundo dos <strong>freelancers</strong> fornecendo alguns serviços como raspagem de dados.</p>
-  <p>Como programador gosto de criar soluções rápidas, seguras e eficientes, sempre tive um péssimo computador então estudei em um "campo de guerra", sempre tentando otimizar ao máximo 
-  as aplicações para que rodassem bem em meu dispositivo, rodeado de sitemas e softwares nada seguros, desenolvolvi a mentalidade de criar códigos seguros também.</p>
-
-𝑬𝒏𝒒𝒖𝒂𝒏𝒕𝒐 𝒂 𝒄𝒉𝒂𝒎𝒂 𝒒𝒖𝒆𝒊𝒎𝒂𝒓, 𝒂 𝒆𝒔𝒑𝒆𝒓𝒂𝒏ç𝒂 𝒊𝒓á 𝒓𝒆𝒊𝒏𝒂𝒓.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Cython](https://img.shields.io/badge/Cython-3.x-lightgrey?style=for-the-badge&logo=cython)
@@ -35,6 +35,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Albach-brightgreen?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-albach-81b865311/)
 
 [![Discord](https://img.shields.io/badge/Discord-Minha_Mansão-brightblue?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/gBfk25QuXW)
+
+𝑬𝒏𝒒𝒖𝒂𝒏𝒕𝒐 𝒂 𝒄𝒉𝒂𝒎𝒂 𝒒𝒖𝒆𝒊𝒎𝒂𝒓, 𝒂 𝒆𝒔𝒑𝒆𝒓𝒂𝒏ç𝒂 𝒊𝒓á 𝒓𝒆𝒊𝒏𝒂𝒓.
 
 </div>
 
