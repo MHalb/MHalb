@@ -9,6 +9,7 @@ O que mais me chamou a atenção foi a <strong>raspagem web</strong>. Hoje em di
 <p>Como programador gosto de criar soluções rápidas, seguras e eficientes, sempre tive um péssimo computador então estudei em um "campo de guerra", sempre tentando otimizar ao máximo 
 as aplicações para que rodassem bem em meu dispositivo, rodeado de sitemas e softwares nada seguros, desenolvolvi a mentalidade de criar códigos seguros também.</p>
 
+---
   
 <div align="center">
   
