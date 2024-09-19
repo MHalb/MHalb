@@ -1,5 +1,13 @@
 # 🌟 MHalb, também conhecido como NinjaHKZ
+![Profile Views](https://komarev.com/ghpvc/?username=MHalb&color=blue&style=flat-square)
+![Freelancer](https://img.shields.io/badge/Freelancer-Available-brightgreen?style=flat-square)
+[![Instagram](https://img.shields.io/badge/Instagram-Marcos_Albach-brightgreen?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marcos.albach/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Albach-brightgreen?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-albach-81b865311/)
+[![Discord](https://img.shields.io/badge/Discord-Minha_Mansão-brightblue?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/gBfk25QuXW)
 
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available_Freelance-blue?style=for-the-badge&logo=fiverr)](https://br.pro.fiverr.com/freelancers/marco_albach)
+[![UpWork](https://img.shields.io/badge/UpWork-Available_Freelance-blue?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01967f7e3cb8fc5b74)
 
 <p>Opa, eai! Eu me chamo <strong>marcos henrique albach</strong>, um programador hobbista em Python e que gosta de <strong>Ciências da Computação</strong></p>
 
@@ -16,26 +24,20 @@ as aplicações para que rodassem bem em meu dispositivo, rodeado de sitemas e s
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHalb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHalb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)    
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Cython](https://img.shields.io/badge/Cython-3.x-lightgrey?style=for-the-badge&logo=cython)
-![Flask](https://img.shields.io/badge/Flask-2.x-green?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-3.x-lightgrey?style=for-the-badge&logo=sqlite)
-![PySide](https://img.shields.io/badge/PySide-5.x-orange?style=for-the-badge)
 
+![BS4](https://img.shields.io/badge/BeautifulSoup-4.x-yellowgreen?style=for-the-badge) 
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-orange?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-brightgreen?style=for-the-badge&logo=playwright)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-red?style=for-the-badge&logo=python&logoColor=white) 
 ![Aiohttp](https://img.shields.io/badge/Aiohttp-Async-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 
-### 🙇 Minhas Redes Sociais 🙇
-[![Instagram](https://img.shields.io/badge/Instagram-Marcos_Albach-brightgreen?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marcos.albach/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Albach-brightgreen?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-albach-81b865311/)
-[![Discord](https://img.shields.io/badge/Discord-Minha_Mansão-brightblue?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/gBfk25QuXW)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-2.x-green?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-3.x-lightgrey?style=for-the-badge&logo=sqlite)
+![PySide](https://img.shields.io/badge/PySide-5.x-orange?style=for-the-badge)
+![Cython](https://img.shields.io/badge/Cython-3.x-lightgrey?style=for-the-badge&logo=cython)
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available_Freelance-blue?style=for-the-badge&logo=fiverr)](https://br.pro.fiverr.com/freelancers/marco_albach)
-[![UpWork](https://img.shields.io/badge/UpWork-Available_Freelance-blue?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01967f7e3cb8fc5b74)
-
-[![VintePila](https://img.shields.io/badge/VintePila-Available_Freelance-blue?style=for-the-badge&logo=VintePila)](https://www.vintepila.com.br/user-profile/MTEzNDUxMDU5NDA=/)
+---
 
 𝑬𝒏𝒒𝒖𝒂𝒏𝒕𝒐 𝒂 𝒄𝒉𝒂𝒎𝒂 𝒒𝒖𝒆𝒊𝒎𝒂𝒓, 𝒂 𝒆𝒔𝒑𝒆𝒓𝒂𝒏ç𝒂 𝒊𝒓á 𝒓𝒆𝒊𝒏𝒂𝒓.
 
