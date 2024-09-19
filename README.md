@@ -4,9 +4,6 @@
 ![Freelancer](https://img.shields.io/badge/Freelancer-Available-brightgreen?style=flat-square)
 <div align="center">
   <img src="https://images.squarespace-cdn.com/content/54c820b1e4b05cf3cfea7b56/1423770494889-8WPMOZLTHACNGH2VZS9Q/lines.gif">
-    
-  # 🖥 Quem Sou Eu  🖥
-  
   
   <p>Opa, eai! Eu me chamo <strong>marcos henrique albach</strong>, um programador hobbista em Python e que gosta de <strong>Ciências da Computação</strong>.</p>
   
